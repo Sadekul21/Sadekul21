@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="Sadekul Islam Banner" width="100%">
+<!-- <p align="center">
+  <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" alt="Sadekul Islam Banner" width="100%"> -->
+ 
+  <img width="2508" height="627" alt="Md Sadekul Islam — Full-Stack Developer" src="https://github.com/user-attachments/assets/62393464-bf9f-4aff-91f0-ae80376af6e7" />
+
+
 </p>
 
 # 💫 About Me:
